@@ -1,0 +1,4 @@
+.vscode/
+*.out
+plots/
+Cluster_Scripts/test_script.jl

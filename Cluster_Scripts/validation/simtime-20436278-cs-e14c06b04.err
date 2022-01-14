@@ -1,0 +1,2281 @@
+  Activating environment at `~/basin-stability-daes/Cluster_Scripts/Project.toml`
+  Activating environment at `~/basin-stability-daes/Cluster_Scripts/Project.toml`
+  Activating environment at `~/basin-stability-daes/Cluster_Scripts/Project.toml`
+  Activating environment at `~/basin-stability-daes/Cluster_Scripts/Project.toml`
+  Activating environment at `~/basin-stability-daes/Cluster_Scripts/Project.toml`
+  Activating environment at `~/basin-stability-daes/Cluster_Scripts/Project.toml`
+  Activating environment at `~/basin-stability-daes/Cluster_Scripts/Project.toml`
+  Activating environment at `~/basin-stability-daes/Cluster_Scripts/Project.toml`
+  Activating environment at `~/basin-stability-daes/Cluster_Scripts/Project.toml`
+  Activating environment at `~/basin-stability-daes/Cluster_Scripts/Project.toml`
+  Activating environment at `~/basin-stability-daes/Cluster_Scripts/Project.toml`
+  Activating environment at `~/basin-stability-daes/Cluster_Scripts/Project.toml`
+  Activating environment at `~/basin-stability-daes/Cluster_Scripts/Project.toml`
+  Activating environment at `~/basin-stability-daes/Cluster_Scripts/Project.toml`
+  Activating environment at `~/basin-stability-daes/Cluster_Scripts/Project.toml`
+  Activating environment at `~/basin-stability-daes/Cluster_Scripts/Project.toml`
+┌ Warning: The parameter `u` is currently not implemented.
+└ @ SyntheticNetworks ~/.julia/packages/SyntheticNetworks/uHJrZ/src/SyntheticNetworks.jl:10
+┌ Warning: The parameter `u` is currently not implemented.
+└ @ SyntheticNetworks ~/.julia/packages/SyntheticNetworks/uHJrZ/src/SyntheticNetworks.jl:10
+┌ Warning: The parameter `u` is currently not implemented.
+└ @ SyntheticNetworks ~/.julia/packages/SyntheticNetworks/uHJrZ/src/SyntheticNetworks.jl:10
+┌ Warning: The parameter `u` is currently not implemented.
+└ @ SyntheticNetworks ~/.julia/packages/SyntheticNetworks/uHJrZ/src/SyntheticNetworks.jl:10
+┌ Warning: The parameter `u` is currently not implemented.
+└ @ SyntheticNetworks ~/.julia/packages/SyntheticNetworks/uHJrZ/src/SyntheticNetworks.jl:10
+┌ Warning: The parameter `u` is currently not implemented.
+└ @ SyntheticNetworks ~/.julia/packages/SyntheticNetworks/uHJrZ/src/SyntheticNetworks.jl:10
+┌ Warning: The parameter `u` is currently not implemented.
+└ @ SyntheticNetworks ~/.julia/packages/SyntheticNetworks/uHJrZ/src/SyntheticNetworks.jl:10
+┌ Warning: The parameter `u` is currently not implemented.
+└ @ SyntheticNetworks ~/.julia/packages/SyntheticNetworks/uHJrZ/src/SyntheticNetworks.jl:10
+┌ Warning: The parameter `u` is currently not implemented.
+└ @ SyntheticNetworks ~/.julia/packages/SyntheticNetworks/uHJrZ/src/SyntheticNetworks.jl:10
+┌ Warning: The parameter `u` is currently not implemented.
+└ @ SyntheticNetworks ~/.julia/packages/SyntheticNetworks/uHJrZ/src/SyntheticNetworks.jl:10
+┌ Warning: The parameter `u` is currently not implemented.
+└ @ SyntheticNetworks ~/.julia/packages/SyntheticNetworks/uHJrZ/src/SyntheticNetworks.jl:10
+┌ Warning: The parameter `u` is currently not implemented.
+└ @ SyntheticNetworks ~/.julia/packages/SyntheticNetworks/uHJrZ/src/SyntheticNetworks.jl:10
+┌ Warning: The parameter `u` is currently not implemented.
+└ @ SyntheticNetworks ~/.julia/packages/SyntheticNetworks/uHJrZ/src/SyntheticNetworks.jl:10
+┌ Warning: The parameter `u` is currently not implemented.
+└ @ SyntheticNetworks ~/.julia/packages/SyntheticNetworks/uHJrZ/src/SyntheticNetworks.jl:10
+┌ Warning: The parameter `u` is currently not implemented.
+└ @ SyntheticNetworks ~/.julia/packages/SyntheticNetworks/uHJrZ/src/SyntheticNetworks.jl:10
+┌ Warning: The parameter `u` is currently not implemented.
+└ @ SyntheticNetworks ~/.julia/packages/SyntheticNetworks/uHJrZ/src/SyntheticNetworks.jl:10
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+┌ Warning: Instability detected. Aborting
+└ @ SciMLBase ~/.julia/packages/SciMLBase/grNUR/src/integrator_interface.jl:351
+  Activating environment at `~/basin-stability-daes/Cluster_Scripts/Project.toml`
+  Activating environment at `~/basin-stability-daes/Cluster_Scripts/Project.toml`
+┌ Warning: The parameter `u` is currently not implemented.
+└ @ SyntheticNetworks ~/.julia/packages/SyntheticNetworks/uHJrZ/src/SyntheticNetworks.jl:10
+ERROR: LoadError: On worker 13:
+SingularException(159)
+Stacktrace:
+  [1] checknonsingular
+    @ /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.6/LinearAlgebra/src/factorization.jl:19 [inlined]
+  [2] checknonsingular
+    @ /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.6/LinearAlgebra/src/factorization.jl:21 [inlined]
+  [3] #lu!#3
+    @ ~/.julia/packages/RecursiveFactorization/ec89K/src/lu.jl:53
+  [4] #lu!#2
+    @ ~/.julia/packages/RecursiveFactorization/ec89K/src/lu.jl:14 [inlined]
+  [5] lu! (repeats 2 times)
+    @ ~/.julia/packages/RecursiveFactorization/ec89K/src/lu.jl:9 [inlined]
+  [6] #_#29
+    @ ~/.julia/packages/DiffEqBase/lULzQ/src/linear_nonlinear.jl:77
+  [7] DefaultLinSolve
+    @ ~/.julia/packages/DiffEqBase/lULzQ/src/linear_nonlinear.jl:63 [inlined]
+  [8] perform_step!
+    @ ~/.julia/packages/OrdinaryDiffEq/IOPED/src/perform_step/rosenbrock_perform_step.jl:785
+  [9] perform_step!
+    @ ~/.julia/packages/OrdinaryDiffEq/IOPED/src/perform_step/rosenbrock_perform_step.jl:751 [inlined]
+ [10] solve!
+    @ ~/.julia/packages/OrdinaryDiffEq/IOPED/src/solve.jl:456
+ [11] #__solve#403
+    @ ~/.julia/packages/OrdinaryDiffEq/IOPED/src/solve.jl:5
+ [12] #solve_call#56
+    @ ~/.julia/packages/DiffEqBase/lULzQ/src/solve.jl:61 [inlined]
+ [13] #solve_up#58
+    @ ~/.julia/packages/DiffEqBase/lULzQ/src/solve.jl:82 [inlined]
+ [14] #solve#57
+    @ ~/.julia/packages/DiffEqBase/lULzQ/src/solve.jl:70 [inlined]
+ [15] #simulate_perturbation#70
+    @ ~/basin-stability-daes/src/SNBS.jl:58
+ [16] #snbs_surv#75
+    @ ~/basin-stability-daes/src/SNBS.jl:143
+ [17] #195
+    @ ~/basin-stability-daes/src/SNBS.jl:208
+ [18] #106
+    @ /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.6/Distributed/src/process_messages.jl:278
+ [19] run_work_thunk
+    @ /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.6/Distributed/src/process_messages.jl:63
+ [20] macro expansion
+    @ /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.6/Distributed/src/process_messages.jl:278 [inlined]
+ [21] #105
+    @ ./task.jl:411
+Stacktrace:
+  [1] (::Base.var"#837#839")(x::Task)
+    @ Base ./asyncmap.jl:177
+  [2] foreach(f::Base.var"#837#839", itr::Vector{Any})
+    @ Base ./abstractarray.jl:2141
+  [3] maptwice(wrapped_f::Function, chnl::Channel{Any}, worker_tasks::Vector{Any}, c::UnitRange{Int64})
+    @ Base ./asyncmap.jl:177
+  [4] wrap_n_exec_twice
+    @ ./asyncmap.jl:153 [inlined]
+  [5] #async_usemap#822
+    @ ./asyncmap.jl:103 [inlined]
+  [6] #asyncmap#821
+    @ ./asyncmap.jl:81 [inlined]
+  [7] pmap(f::Function, p::WorkerPool, c::UnitRange{Int64}; distributed::Bool, batch_size::Int64, on_error::Nothing, retry_delays::Vector{Any}, retry_check::Nothing)
+    @ Distributed /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.6/Distributed/src/pmap.jl:126
+  [8] pmap(f::Function, p::WorkerPool, c::UnitRange{Int64})
+    @ Distributed /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.6/Distributed/src/pmap.jl:101
+  [9] pmap(f::Function, c::UnitRange{Int64}; kwargs::Base.Iterators.Pairs{Union{}, Union{}, Tuple{}, NamedTuple{(), Tuple{}}})
+    @ Distributed /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.6/Distributed/src/pmap.jl:156
+ [10] pmap
+    @ /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.6/Distributed/src/pmap.jl:156 [inlined]
+ [11] parallel_snbs_surv(pg::PowerGrid, op::State{PowerGrid, Float64}, sim_time::Float64, sample_size::Int64, dist_vec::Vector{Vector{Float64}}, tol_bs::Float64, tau_max::Float64, method::String, save::Bool; tol::Bool)
+    @ Main ~/basin-stability-daes/src/SNBS.jl:208
+ [12] ensemble_calc(dist_vec::Vector{Vector{Float64}}, tau_max::Float64, num_networks::Int64, sample_size::Int64, num_nodes::Int64, method::String; τ_P::Float64, τ_Q::Float64, K_P::Int64, K_Q::Float64, spread_run::Bool, tol::Bool, simtime::Float64)
+    @ Main ~/basin-stability-daes/src/pg_ensemble.jl:123
+ [13] top-level scope
+    @ ~/basin-stability-daes/Cluster_Scripts/validation/simtime.jl:19
+in expression starting at /home/buettner/basin-stability-daes/Cluster_Scripts/validation/simtime.jl:19
