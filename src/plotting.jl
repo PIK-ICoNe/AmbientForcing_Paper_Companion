@@ -1,6 +1,5 @@
 
 gr()
-default(grid = false, foreground_color_legend = nothing, bar_edges = false, framestyle =:box, msc = :auto, dpi=300, legendfontsize = 11, labelfontsize = 12, tickfontsize = 10)
 """
     plot_res(result::PowerGridSolution)
 
@@ -197,8 +196,8 @@ function my_graph_plot(pg::PowerGrid, df::DataFrame, pg_idx::Int, lable_nodes = 
     else
         f, ax, p = graphplot(pg.graph, node_marker = node_marker, node_color = node_color, node_size = df_pg[!, :SNBS] .* 20)
     end
-    hidedecorations!(ax); hidespines!(ax)
-    ax.aspect = DataAspect()
+    #hidedecorations!(ax); hidespines!(ax)
+    #ax.aspect = DataAspect()
     return f
 end 
 

@@ -18,6 +18,11 @@ function spread(pg::PowerGrid, rpg::ODEFunction, indicies, op::State, ur_idx, ui
     return Δx_abs
 end
 
+"""
+    spread_parallel(pg::PowerGrid, op, dist_args, tau_max::Float64, sample_size::Int64)
+
+Calculates the Spreadability. Uses pmap and spread() for the parallelization.
+"""
 function spread_parallel(pg::PowerGrid, op, dist_args, tau_max::Float64, sample_size::Int64)
     rpg, ur_idx, ui_idx, nodes, indicies = preliminary_spread(pg)
     
@@ -45,6 +50,11 @@ function spread_parallel(pg::PowerGrid, op, dist_args, tau_max::Float64, sample_
     return s_abs, A_x
 end
 
+"""
+    preliminary_spread(pg::PowerGrid)
+
+Calculates some preliminary thing which stay the same during all runs.
+"""
 function preliminary_spread(pg::PowerGrid)
     rpg = rhs(pg)
     ur_idx = findall(map(variable -> occursin("u_r", variable), string.(rpg.syms)))

@@ -66,6 +66,11 @@ function filter_degree(df::DataFrame)
     return SNBS_degree, SNBS_δ, SURV_degree, SURV_δ
 end
 
+"""
+    filter_degree_Ax(df::DataFrame)
+
+Calculates the mean Amplification for each degree.
+"""
 function filter_degree_Ax(df::DataFrame)
     max_degree = maximum(df[!, "degree"])
 
@@ -158,13 +163,16 @@ function perturbed_nodes(rhs, op, sol)
     return disturbed_nodes
 end
 
+"""
+    half_success_half_failure(x, L::Int)
+
+"""
 function half_success_half_failure(x, L::Int)
     s = x * L
     x_tilde = (s .+ 0.5) ./ (L + 1)
     e_tilde = sqrt.(x_tilde .* (1 .- x_tilde) ./ (L + 1))
     return x_tilde, e_tilde
 end
-
 
 """
     set_perturbation(pg::PowerGrid, rpg::ODEFunction, node::Int, op, pert_vec)
@@ -214,27 +222,22 @@ function snbs_fault_statistics(df::DataFrame)
     p_vol = (length(vol_drop_nodes) / length(df[!, :SNBS])) * 100
     println("Voltage Drops occur at: ", string(p_vol) , " % of nodes")
 
-     # all nodes where a desynronization appears
-     desyn_nodes = findall((1 .- df[!, :INFEASIBLE]) .- df[!, :SNBS_ω] .> 0) 
-     p_desyn = (length(desyn_nodes) / length(df[!, :SNBS])) * 100
-     println("Desynronizations occur at: ", string(p_desyn) , " % of nodes") 
+    # all nodes where a desynronization appears
+    desyn_nodes = findall((1 .- df[!, :INFEASIBLE]) .- df[!, :SNBS_ω] .> 0) 
+    p_desyn = (length(desyn_nodes) / length(df[!, :SNBS])) * 100
+    println("Desynronizations occur at: ", string(p_desyn) , " % of nodes") 
 
     # all nodes where voltage drops appear and no desynronization
     vol_drop_only = findall(df[!, :SNBS_ω] .- df[!, :SNBS_u] .> 0.001) 
     p_vol_only = (length(vol_drop_only) / length(df[!, :SNBS])) * 100
     println("Voltage Drops without Desynronization occur at: ", string(p_vol_only) , " % of nodes")
    
-    # all nodes where a desynronization occurs and no voltage drop
-    desyn_only = findall(df[!, :SNBS_u] .- df[!, :SNBS_ω] .> 0.001) 
-    p_desyn_only = (length(desyn_only) / length(df[!, :SNBS])) * 100
-    println("Desynronizations without Voltage Drops occur at: ", string(p_desyn_only) , " % of nodes")
-
     # all nodes where infeasible power flows occur
     infeas_nodes = findall(df[!, :INFEASIBLE] .> 0.0) 
     p_infeas = (length(infeas_nodes) / length(df[!, :SNBS])) * 100
     println("Infeasible Solutions occur at: ", string(p_infeas) , " % of nodes")
 
-    return p_vol, p_desyn, p_vol_only, p_desyn_only, p_infeas
+    return p_vol, p_desyn, p_vol_only, p_infeas
 end
 
 """
@@ -247,25 +250,6 @@ function find_power_grid(pg_idx::Int)
     filename = joinpath(@__DIR__,"../data/Ensemble/pg_method_Voltage_pg_idx_" * string(pg_idx))
     pg = read_powergrid(filename, Json)
     return pg, rhs(pg), find_operationpoint(pg)
-end
-
-
-"""
-    get_kullback_leibler_divergence(data_1, data_2, range)
-
-Calculates the KL-divergence of the probability densities given by data_1 and data_2.
-- `data_1`: Reference data set
-- `data_2`: Data set
-- `range`: Interval of possible outcomes to run over (in Basin Stability [0,1])
-"""
-function get_kullback_leibler_divergence(data_1, data_2, range)
-    P = kde(data_1)
-    Q = kde(data_2)
-
-    P = Spline1D(P.x, P.density ./ sum(P.density)) 
-    Q = Spline1D(Q.x, Q.density ./ sum(Q.density))
-
-    kullback_leibler_divergence(P, Q, range)
 end
 
 """
@@ -286,8 +270,15 @@ function kullback_leibler_divergence(P, Q, X)
     return D_KL
 end
 
-export jensen_shannon_divergence
+"""
+    jensen_shannon_divergence(data_1, data_2, X)
 
+Calculates the Jensen-Shannon-divergence of the probability densities given by data_1 and data_2.
+The Jensen-Shannon divergence, is a symmetric and bounded version of the Kullback-Leibler divergence.
+- `data_1`: Reference data set
+- `data_2`: Data set
+- `X`: Interval of possible outcomes to run over (in Basin Stability [0,1])
+"""
 function jensen_shannon_divergence(data_1, data_2, X)
     P = kde(data_1)
     Q = kde(data_2)
@@ -303,4 +294,50 @@ function jensen_shannon_divergence(data_1, data_2, X)
     JSD = 1/2 * (D_PM + D_QM)
 
     return JSD
+end
+
+import PowerDynamics: convert_node
+using PowerDynamics:_map_complex
+export convert_node
+function convert_node(node)
+    name = get(node, "name", nothing)
+    type = get(node, "type", nothing)
+    params = get(node, "params", [])
+    sym_params = Dict(Symbol(k) => _map_complex(v) for (k, v) in params)
+    if type == "SwingEq"
+        node = SwingEq(;sym_params...)
+    elseif type == "SwingEqLVS"
+        node = SwingEqLVS(;sym_params...)
+    elseif type == "FourthOrderEq"
+        node = FourthOrderEq(;sym_params...)
+    elseif type == "FourthOrderEqGovernorExciterAVR"
+        node = FourthOrderEqGovernorExciterAVR(;sym_params...)
+    elseif type == "SlackAlgebraic"
+        node = SlackAlgebraic(;sym_params...)
+    elseif type == "PQAlgebraic"
+        node = PQAlgebraic(;sym_params...)
+    elseif type == "PVAlgebraic"
+        node = PVAlgebraic(;sym_params...)
+    elseif type == "PVAlgebraic"
+        node = PVAlgebraic(;sym_params...)
+    elseif type == "VSIMinimal"
+        node = VSIMinimal(;sym_params...)
+    elseif type == "VSIVoltagePT1"
+        node = VSIVoltagePT1(;sym_params...)
+    elseif type == "CSIMinimal"
+        node = CSIMinimal(;sym_params...)
+    elseif type == "ExponentialRecoveryLoad"
+        node = ExponentialRecoveryLoad(;sym_params...)
+    elseif type == "VoltageDependentLoad"
+        node = VoltageDependentLoad(;sym_params...)
+    elseif type == "SchifferApprox"
+        node = SchifferApprox(;sym_params...)
+    else
+        throw(ArgumentError("Invalid type: $type"))
+    end
+    if typeof(name) == Nothing
+        node
+    else
+        (name,node)
+    end
 end

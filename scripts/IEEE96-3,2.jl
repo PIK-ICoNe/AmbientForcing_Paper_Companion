@@ -4,6 +4,7 @@ Pkg.instantiate()
 using DataFrames, CSV
 using TreeNodeClassification, DelimitedFiles
 using BS_DAE
+default(grid = false, foreground_color_legend = nothing, bar_edges = false, framestyle =:box, msc = :auto, dpi=300, legendfontsize = 11, labelfontsize = 12, tickfontsize = 10)
 
 ## IEEE 96 Test Case
 pg_ieee96 = get_ieee_96()
@@ -33,26 +34,15 @@ eσ_96[16] * 100
 mean(β_96)
 mean(σ_96)
 
-
 plot_vs_only_dyn(pg_ieee96, β_96_u, β_96, eβ_96_u, eβ_96, L"\beta_{u}", L"\beta", colorant"mediumorchid", [0.5, 1])
-#png(joinpath(@__DIR__,"../plots/ieee96/snbs_96_all_vs_u"))
-
 plot_vs_only_dyn(pg_ieee96, β_96_u, β_96_ω , eβ_96_u, eβ_96, L"\beta_{u}", L"\beta_{\omega}", colorant"coral1", [0.5, 1])
-#png(joinpath(@__DIR__,"../plots/ieee96/snbs_96_omgea_vs_u"))
-
 plot_vs_only_dyn(pg_ieee96, σ_96_u, σ_96, eσ_96_u, eσ_96, L"\sigma_u", L"\sigma", colorant"steelblue", [0.50, 1])
-#png(joinpath(@__DIR__,"../plots/ieee96/surv_96_all_vs_u"))
-
 plot_vs_only_dyn(pg_ieee96, σ_96_u, σ_96_ω, eσ_96_u, eσ_96, L"\sigma_u", L"\sigma_{\omega}",  colorant"teal", [0.5, 1])
-#png(joinpath(@__DIR__,"../plots/ieee96/surv_96_omgea_vs_u"))
 
 df = DataFrame(Constraint = constraint_vec, SNBS = β_96, SURV = σ_96)
 
 @df df groupedhist(:SNBS, group = :Constraint, xlims = [0.94, 1], fillalpha = 0.8, bins = 12,legend = :topleft, color = [colorant"coral1" colorant"firebrick1" ],bar_position = :stack,  xaxis = L"\beta_{\omega, u}", bar_edges = false, linewidth = 0, label = ["Differential" "Algebraic"])
-#png(joinpath(@__DIR__,"../plots/ieee96/snbs_96_histogram"))
 
 @df df groupedhist(:SURV, group = :Constraint, xlims = [0.94, 1], fillalpha= 0.8, bins = 12,legend = :topleft, color = [colorant"teal" colorant"skyblue2"],bar_position = :stack,  xaxis = L"\sigma_{\omega, u}", bar_edges = false, linewidth = 0, label = ["Differential" "Algebraic"])
-#png(joinpath(@__DIR__,"../plots/ieee96/surv_96_histogram"))
 
 plot_vs(pg_ieee96, β_96, σ_96, eβ_96, eσ_96, L"\beta_{u, \omega}", L"\sigma_{u,\omega}", colorant"orangered",colorant"darkorchid3", :topleft, [0.94, 1])
-#png(joinpath(@__DIR__,"../plots/ieee96/snbs_surv_96_all"))

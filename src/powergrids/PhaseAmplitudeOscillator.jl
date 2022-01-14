@@ -3,6 +3,7 @@ using PowerDynamics
 import PowerDynamics: dimension, symbolsof, construct_vertex 
 import PowerDynamics: showdefinition
 
+# Source: https://github.com/PIK-ICoNe/NormalFormPaper
 @DynamicNode SchifferApprox(τ_P, τ_Q, K_P, K_Q, V_r, P, Q) begin
     Aᵤ = (V_r + 2 * K_Q * Q) / (2 * τ_Q * V_r)
     Bᵤ = 1im 

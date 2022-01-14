@@ -2,3 +2,4 @@
 *.out
 plots/
 Cluster_Scripts/test_script.jl
+*.png
