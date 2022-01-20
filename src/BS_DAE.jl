@@ -29,9 +29,6 @@ module BS_DAE
     include(joinpath("powergrids/", "ieee-rts-96-master/PowerDynamics_dyn.jl"))
     export SchifferApprox, get_ieee_96
 
-    include(joinpath("powergrids/ieee-rts-96-master/", "PowerDynamics_dyn.jl"))
-    export get_ieee_96
-
     # load utils
     include("utils.jl")
     export find_power_grid, half_success_half_failure, perturbed_nodes, node_to_var_idx,  constraint_vector, group_consecutive

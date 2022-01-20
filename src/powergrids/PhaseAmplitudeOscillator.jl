@@ -1,5 +1,4 @@
 using NetworkDynamics: ODEVertex
-using PowerDynamics
 import PowerDynamics: dimension, symbolsof, construct_vertex 
 import PowerDynamics: showdefinition
 

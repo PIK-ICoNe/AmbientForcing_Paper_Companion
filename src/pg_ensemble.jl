@@ -59,7 +59,7 @@ function random_PD_grid(N::Int; τ_P = 5.0, τ_Q = 8.0, K_P = 5, K_Q = 0.1)
 end 
 
 """
-    spread_ensemble(dist_args, tau_max::Float64, num_networks::Int64, throws::Int64, num_nodes::Int64)
+    ensemble_calc(dist_vec, tau_max::Float64, num_networks::Int64, sample_size::Int64, num_nodes::Int64, method::String; τ_P = 5.0, τ_Q = 8.0, K_P = 5, K_Q = 0.1, spread_run = false, tol = false, simtime = 500.0)
 
 Calculates the relevant measures for an ensemble of randomly created synthetical power grids. 
 """
