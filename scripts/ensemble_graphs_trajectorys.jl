@@ -2,7 +2,7 @@ using Pkg
 Pkg.activate(joinpath(@__DIR__, "../"))
 using CSV, DataFrames
 using CairoMakie
-using Graphs, FileIO
+using LightGraphs, FileIO
 using BS_DAE
 default(grid = false, foreground_color_legend = nothing, bar_edges = false, framestyle =:box, msc = :auto, dpi=300, legendfontsize = 11, labelfontsize = 12, tickfontsize = 10)
 

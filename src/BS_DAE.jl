@@ -15,7 +15,7 @@ module BS_DAE
     using Plots.Measures
     using GraphMakie
     using Plots, StatsPlots, Statistics
-    using Graphs, GraphMakie
+    using LightGraphs, GraphMakie
     using Colors, ColorSchemes
     using Distributed
     using DelimitedFiles
