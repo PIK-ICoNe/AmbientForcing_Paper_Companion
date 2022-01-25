@@ -1,16 +1,13 @@
 using Pkg, Distributed
-Pkg.activate(joinpath(@__DIR__, "../"))
+Pkg.activate(joinpath(@__DIR__, "../../"))
 Pkg.instantiate()
 
-using SlurmClusterManager
+using SlurmClusterManager, BS_DAE
 addprocs(SlurmManager())
 
 @everywhere using Distributed, Pkg
-@everywhere Pkg.activate(joinpath(@__DIR__, "../"))
-@everywhere using SlurmClusterManager
-
-include(joinpath(@__DIR__, "../../src/pg_ensemble.jl"))
-@everywhere include(joinpath(@__DIR__, "../../src/pg_ensemble.jl"))
+@everywhere Pkg.activate(joinpath(@__DIR__, "../../"))
+@everywhere using SlurmClusterManager, BS_DAE
 
 @everywhere num_nodes = 100
 @everywhere num_networks = 100
