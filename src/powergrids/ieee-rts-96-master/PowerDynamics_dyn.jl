@@ -26,15 +26,11 @@ function get_ieee_96()
     nodes = []
     for n in eachrow(node_df)
         if n.Number == slack_idx
-            # in the data set, 1.0 is not exactly 1,
-            # so our steady state will be slightly different
-            push!(nodes, SlackAlgebraic(U=1.0)) # 1.0
+            push!(nodes, SlackAlgebraic(U = 1.0))
         else
             if n.P_Gen |> ismissing
-                #push!(nodes, PQAlgebraic(P=-n.P_Load, Q=-n.Q_Load))
                 push!(nodes, PVAlgebraic(P = -n.P_Load, V = 1.0))
             else
-                ### replace this with other node types ###
                 push!(nodes, PVAlgebraic(P = n.P_Gen - n.P_Load, V = 1.0))
             end
         end
@@ -56,14 +52,11 @@ function get_ieee_96()
     for i in 1:length(pg_cons.nodes)
         n = node_df[i, :]
         if n.Number == slack_idx
-            # in the data set, n.Vm is not exactly 1,
-            # so our steady state will be slightly different
             push!(nodes, SlackAlgebraic(U=1.0)) 
         else
             if n.P_Gen |> ismissing
                 push!(nodes, PQAlgebraic(P = op_cons[i, :p], Q = op_cons[i, :q]))
             else
-                #push!(nodes, SchifferApprox(τ_P = n.Inertia, τ_Q = 2.5, K_P = 5, K_Q = 0.1, V_r = 1.0, P = op_cons[i, :p], Q = op_cons[i,:q], Y_n = 0))
                 push!(nodes, SchifferApprox(τ_P = n.Inertia, τ_Q = 8.0, K_P = 5, K_Q = 0.1, V_r = 1.0, P = op_cons[i, :p], Q = op_cons[i,:q], Y_n = 0))
             end
         end

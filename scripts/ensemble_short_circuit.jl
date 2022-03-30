@@ -12,9 +12,9 @@ df = DataFrame(CSV.File(input))
 df_cons = filter("Constraint" => x -> x == 1, df)
 df_dyn = filter("Constraint" => x -> x == 0, df)
 
-################################################
-# Voltage Drops, Infeasible, desynronization   #
-################################################
+##################################################
+# Voltage Drops, Infeasible, desynchronization   #
+##################################################
 snbs_fault_statistics(df)
 
 ######################################

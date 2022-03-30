@@ -14,11 +14,9 @@ function plot_res(result::PowerGridSolution)
     CList = reshape( range(colorant"coral1", stop=colorant"steelblue",length=n), 1, n );
 
     ω_labels = reshape([latexstring(string(raw"\omega", "_{$i}")) for i=ω_indices], (1, length(ω_indices)))
-    #p_labels = reshape([latexstring(string(raw"p", "_{$i}")) for i=1:length(powergrid.nodes)], (1, length(powergrid.nodes)))
     v_labels = reshape([latexstring(string(raw"v", "_{$i}")) for i=1:length(powergrid.nodes)], (1, length(powergrid.nodes)))
 
     pl_ω = Plots.plot(result, ω_indices, :ω, linecolor = CList, legend = false, ylabel=L"\omega \left[rad/s\right]", label=ω_labels)
-    #pl_p = Plots.plot(result, :, :p, linecolor = CList, legend = false, ylabel=L"p [p.u.]", label=p_labels)
     pl_v = Plots.plot(result, :, :v, linecolor = CList, legend = false, ylabel=L"v [p.u.]", label=v_labels)
 
     plt = Plots.plot(
@@ -124,34 +122,6 @@ function spread_violin_plot(distances_sorted, spread_sorted, color1, color2, dis
 end
 
 """
-    my_corrplot(df::DataFrame)
-"""
-function my_corrplot(df::DataFrame, data1::String, data2::String, legendpos)
-    Classes = ["Bulk", "Root", "Inner Tree Node", "Proper Leave", "Sparse Sprout", "Dense Sprout"]
-    df_classes = []
-
-    # Make a filtered DataFrame for each Node Class
-    for i in Classes
-        append!(df_classes, [filter("NodeClass" => x -> x == i, df)])
-    end
-
-    # setting the layout for the 3 different plots
-    layout = @layout [a            _
-                    b{0.8w,0.8h} c]
-
-    plt = Plots.plot(layout = layout, link = :both, size = (500, 500), margin = -10Plots.px)
-    Plots.plot!([0,1], [0,1], line = :dash, subplot = 2,label = "", foreground_color_legend = nothing,color = colorant"gray42", legend = legendpos)
-    color_vec = distinguishable_colors(6, [RGB(1,1,1), RGB(0,0,0)], dropseed=true)
-
-    # Add a separate histogram and scatter plot for each class in a different color
-    for j in 1:length(df_classes)
-        Plots.scatter!(df_classes[j][!,data1], legendfontsize = 8, df_classes[j][!,data2], label = Classes[j], left_margin = 1mm, xlabel = L"\beta", ylabel = L"\sigma", subplot = 2, xlims = [0,1], ylims = [0,1])
-        Plots.histogram!([df_classes[j][!,data1] df_classes[j][!,data2]], bins = 20, subplot = [1 3], orientation = [:v :h], framestyle = :none, linewidth = 0, legend = false)
-    end
-    display(plt)
-end
-
-"""
     function my_graph_plot(pg::PowerGrid, df::DataFrame, pg_idx::Int, label_nodes = [])
 
 Using GraphMakie to plot some nice powergrids. Markersize is with respect to the SNBS. 
@@ -196,8 +166,6 @@ function my_graph_plot(pg::PowerGrid, df::DataFrame, pg_idx::Int, lable_nodes = 
     else
         f, ax, p = graphplot(pg.graph, node_marker = node_marker, node_color = node_color, node_size = df_pg[!, :SNBS] .* 20)
     end
-    #hidedecorations!(ax); hidespines!(ax)
-    #ax.aspect = DataAspect()
     return f
 end 
 

@@ -85,7 +85,7 @@ function surv_vol(pg::PowerGrid, sol::ODESolution, op, u_r_idx::Array{Int,1}, u_
     t = sol.t
     # The voltage of the Slack can not be perturbed_nodes
     # When the Slack has no imaginary part this could lead to problems
-    # The voltage might shit from e-32 to e-21 and the state is wrongly counted
+    # The voltage might shift from e-32 to e-21 and the state is wrongly counted
     for n in 1:length(pg.nodes)
         if typeof(pg.nodes[n]) == SlackAlgebraic
             continue
@@ -93,7 +93,7 @@ function surv_vol(pg::PowerGrid, sol::ODESolution, op, u_r_idx::Array{Int,1}, u_
 
         # difference between time series and operationpoint
         diff_v = abs.(1.0 .- (abs.(sol[u_r_idx[n], :] .+ 1im * sol[u_i_idx[n], :]) ./ op[n, :v]))
-        a_v = findall(map(y -> y > 0.1, diff_v))  # Find all points in timeseries where they differ more than allowed
+        a_v = findall(map(y -> y > 0.1, diff_v))  # Find all points in time series where they differ more than allowed
         if a_v != Int64[]
             if length(a_v) > 1
                 cons_v = group_consecutive(a_v) # group consecutive points in time together
@@ -146,7 +146,6 @@ function snbs_surv(pg::PowerGrid, rpg::ODEFunction, g, op::State, ω_idx, ur_idx
         if sol.retcode == :Success
             final_state = sol.u[end]
 
-            # is another condition for the voltage needed? eg. voltage is not allowed to collapse?
             max_final_frequency = maximum(abs.(final_state[ω_idx])) # accessing the final state and get the maximal frequency
             final_diff_v = abs.(op[:, :v] .- (abs.(final_state[ur_idx] .+ 1im * final_state[ui_idx]) ./ op[:, :v]))
 

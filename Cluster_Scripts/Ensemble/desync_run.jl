@@ -20,11 +20,11 @@ df = DataFrame(CSV.File(input))
 @everywhere df = DataFrame(CSV.File(input))
 
 
-# Node with most frequent desync and no voltage drop
+# Node with most frequent desynchronization and no voltage drop
 _, node_idx = findmax(df[!, :SNBS_u] .- df[!, :SNBS_ω]) 
-pg_idx = df[node_idx, :PG_IDX] # related powergrid
+pg_idx = df[node_idx, :PG_IDX] # related power grid
 @everywhere _, node_idx = findmax(df[!, :SNBS_u] .- df[!, :SNBS_ω]) 
-@everywhere pg_idx = df[node_idx, :PG_IDX] # related powergrid
+@everywhere pg_idx = df[node_idx, :PG_IDX] # related power grid
 
 pg, rpg, op = find_power_grid(pg_idx)
 @everywhere pg, rpg, op = find_power_grid(pg_idx)

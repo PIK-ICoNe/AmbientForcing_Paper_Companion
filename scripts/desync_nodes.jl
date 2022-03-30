@@ -18,7 +18,7 @@ ui_idx = findall(map(variable -> occursin("u_i", variable), string.(rpg.syms)))
 input = joinpath(@__DIR__,"../data/Frands_Nodes_100.csv")
 df = DataFrame(CSV.File(input))
 
-# Node with most frequent desynronization and no voltage drop
+# Node with most frequent desynchronization and no voltage drop
 sim_time = 500.0
 
 z_new = df[44, :F_RAND]
@@ -30,7 +30,7 @@ z_new = parse.(Float64, z_new)
 sol = simulate_perturbation(rpg, z_new, (0.0, sim_time))
 # We can see that there is in fact a deviation of the voltage from the fixed point
 # This is also the case for the other networks
-# We can confirm that the desynronization never occurs without deviations of the voltage
+# We can confirm that the desynchronization never occurs without deviations of the voltage
 plot_res(PowerGridSolution(sol, pg))
 
 final_state = sol.u[end]

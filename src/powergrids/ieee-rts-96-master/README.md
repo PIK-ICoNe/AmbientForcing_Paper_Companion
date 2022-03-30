@@ -2,7 +2,7 @@
 
 The IEEE Reliability Test System-1996 is a benchmark system for power grids. It consists of 73 buses and 108 lines with 33 generators.
 
-In *Data* I provide .csv files for conveniently building the testcases in Julia.
+In *Data* I provide .csv files for conveniently building the test cases in Julia.
 
 | File | Data |
 |------|------|

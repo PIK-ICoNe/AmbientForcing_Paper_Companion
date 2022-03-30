@@ -165,7 +165,6 @@ end
 
 """
     half_success_half_failure(x, L::Int)
-
 """
 function half_success_half_failure(x, L::Int)
     s = x * L
@@ -203,7 +202,7 @@ will be attracting (λ_max < 0) or repelling (λ_max > 0).
 """
 function check_eigenvalues(pg::PowerGrid, s::State)
     rpg = rhs(pg)
-    M = Array(rpg.mass_matrix) # ohne slack failt
+    M = Array(rpg.mass_matrix)
     f!(dx, x) = rpg(dx, x, nothing, 0.)
     j(x) = (dx = similar(x); ForwardDiff.jacobian(f!, dx, x))
     λ = eigvals(j(s.vec) * pinv(M) * M) .|> real |> extrema
@@ -222,15 +221,15 @@ function snbs_fault_statistics(df::DataFrame)
     p_vol = (length(vol_drop_nodes) / length(df[!, :SNBS])) * 100
     println("Voltage Drops occur at: ", string(p_vol) , " % of nodes")
 
-    # all nodes where a desynronization appears
+    # all nodes where a desynchronization appears
     desyn_nodes = findall((1 .- df[!, :INFEASIBLE]) .- df[!, :SNBS_ω] .> 0) 
     p_desyn = (length(desyn_nodes) / length(df[!, :SNBS])) * 100
-    println("Desynronizations occur at: ", string(p_desyn) , " % of nodes") 
+    println("Desynchronization occur at: ", string(p_desyn) , " % of nodes") 
 
-    # all nodes where voltage drops appear and no desynronization
+    # all nodes where voltage drops appear and no desynchronization
     vol_drop_only = findall(df[!, :SNBS_ω] .- df[!, :SNBS_u] .> 0.001) 
     p_vol_only = (length(vol_drop_only) / length(df[!, :SNBS])) * 100
-    println("Voltage Drops without Desynronization occur at: ", string(p_vol_only) , " % of nodes")
+    println("Voltage Drops without Desynchronization occur at: ", string(p_vol_only) , " % of nodes")
    
     # all nodes where infeasible power flows occur
     infeas_nodes = findall(df[!, :INFEASIBLE] .> 0.0) 

@@ -28,7 +28,7 @@ function random_PD_grid(N::Int; τ_P = 5.0, τ_Q = 8.0, K_P = 5, K_Q = 0.1)
             nodes[n] = PVAlgebraic(P = P_vec[n], V = 1.0)
         end
         pg_cons = PowerGrid(nodes, lines)
-        op_cons = find_operationpoint(pg_cons, sol_method=:rootfind)#, solve_powerflow = true)
+        op_cons = find_operationpoint(pg_cons, sol_method=:rootfind)
 
         nodes = Array{Any}(undef, nv(pg.graph))
         nodes[1] = SlackAlgebraic(U = complex(1.0))
@@ -44,7 +44,7 @@ function random_PD_grid(N::Int; τ_P = 5.0, τ_Q = 8.0, K_P = 5, K_Q = 0.1)
         end
 
         pg = PowerGrid(nodes, lines)
-        op = find_operationpoint(pg, sol_method=:rootfind)#, solve_powerflow = true)
+        op = find_operationpoint(pg, sol_method=:rootfind)
 
         if all(isapprox.(op[:, :v], 1.0))
             _, stable = check_eigenvalues(pg, op) # check if operation point is linearly stable
@@ -77,7 +77,7 @@ function ensemble_calc(dist_vec, tau_max::Float64, num_networks::Int64, sample_s
     output = joinpath(@__DIR__, "../data/", file_name)
     
     for i in 1:num_networks
-        # sampling a random powergrid
+        # sampling a random power grid
         pg, op = random_PD_grid(num_nodes, τ_P = τ_P, τ_Q = τ_Q, K_P = K_P, K_Q = K_Q)
         pg_idx = rand(Int)
 

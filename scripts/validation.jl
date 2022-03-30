@@ -27,9 +27,9 @@ StatsPlots.density!(df_500[!, :SNBS], lw = 3, label = "500s")
 StatsPlots.density(df[!, :SURV],  lw = 3, label = "400s", legend = :topleft)
 StatsPlots.density!(df_500[!, :SURV], lw = 3, label = "500s")
 
-################################################
-# Voltage Drops, Infeasible, desynronization   #
-################################################
+##################################################
+# Voltage Drops, Infeasible, desynchronization   #
+##################################################
 snbs_fault_statistics(df)
 snbs_fault_statistics(df_500)
 
@@ -69,9 +69,9 @@ StatsPlots.density!(df_500[!, :SNBS], lw = 3, label = "1e-6")
 StatsPlots.density(df[!, :SURV],  lw = 3, label = "Default Tol", legend = :topleft)
 StatsPlots.density!(df_500[!, :SURV], lw = 3, label = "1e-6")
 
-################################################
-# Voltage Drops, Infeasible, desynronization   #
-################################################
+##################################################
+# Voltage Drops, Infeasible, desynchronization   #
+##################################################
 snbs_fault_statistics(df)
 snbs_fault_statistics(df_500)
 
