@@ -38,6 +38,7 @@ SyntheticNetworks = "249d44c8-44e3-11e9-1b59-f5895c860273"
 TreeNodeClassification = "55be299f-9ec0-4ce2-b89f-f25fca890028"
 
 [compat]
+AmbientForcing = "0.1.0"
 GraphMakie = "0.2.4"
 LightGraphs = "^1.3.0"
 NetworkDynamics = "0.5.7"
