@@ -1,6 +1,6 @@
 using Pkg
 Pkg.activate(joinpath(@__DIR__, "../"))
-using CSV, DataFrames
+using CSV, DataFrames, Plots
 using BS_DAE, PowerDynamics
 default(grid = false, foreground_color_legend = nothing, bar_edges = false, framestyle =:box, msc = :auto, dpi=300, legendfontsize = 11, labelfontsize = 12, tickfontsize = 10)
 

@@ -1,7 +1,7 @@
 using Pkg
 Pkg.activate(joinpath(@__DIR__, "../"))
 using CSV, DataFrames, StatsPlots, StatsBase
-using BS_DAE, ColorSchemes, LaTeXStrings
+using BS_DAE, ColorSchemes, LaTeXStrings, Plots
 default(grid = false, foreground_color_legend = nothing, bar_edges = false, framestyle =:box, msc = :auto, dpi=300, legendfontsize = 11, labelfontsize = 12, tickfontsize = 10)
 
 # Comparing different Parameters for SchifferApprox

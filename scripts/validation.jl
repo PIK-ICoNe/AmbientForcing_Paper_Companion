@@ -3,7 +3,7 @@ using Pkg
 Pkg.activate(joinpath(@__DIR__, "../"))
 using CSV, DataFrames
 using BS_DAE
-using StatsBase
+using StatsBase, Plots
 default(grid = false, foreground_color_legend = nothing, bar_edges = false, framestyle =:box, msc = :auto, dpi=300, legendfontsize = 11, labelfontsize = 12, tickfontsize = 10)
 
 input_400 = joinpath(@__DIR__,"../data/Pg_ensemble_method_Voltage_Networks_100_Nodes_100_SampleSize_250_TauMax1.0_Dist[[-2.0, 0.0], [-3.0, 2.0]]_simtime_400.0.csv")

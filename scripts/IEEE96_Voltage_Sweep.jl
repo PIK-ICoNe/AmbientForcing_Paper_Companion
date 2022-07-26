@@ -2,7 +2,7 @@ using Pkg
 Pkg.activate(joinpath(@__DIR__, "../"))
 Pkg.instantiate()
 using DataFrames, CSV, DelimitedFiles
-using KernelDensity, ColorSchemes
+using KernelDensity, ColorSchemes, Plots
 using BS_DAE, LaTeXStrings, StatsPlots
 default(grid = false, foreground_color_legend = nothing, bar_edges = false, framestyle =:box, msc = :auto, dpi=300, legendfontsize = 11, labelfontsize = 12, tickfontsize = 10)
 

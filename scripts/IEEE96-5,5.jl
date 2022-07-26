@@ -1,6 +1,6 @@
 using Pkg
 Pkg.activate(joinpath(@__DIR__, "../"))
-using DataFrames, CSV
+using DataFrames, CSV, Plots
 using TreeNodeClassification, DelimitedFiles
 using BS_DAE, StatsPlots
 default(grid = false, foreground_color_legend = nothing, bar_edges = false, framestyle =:box, msc = :auto, dpi=300, legendfontsize = 11, labelfontsize = 12, tickfontsize = 10)

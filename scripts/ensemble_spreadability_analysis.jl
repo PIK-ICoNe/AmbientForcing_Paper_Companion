@@ -1,7 +1,7 @@
 using Pkg
 Pkg.activate(joinpath(@__DIR__, "../"))
-using BS_DAE
-using CSV, DataFrames
+using BS_DAE, Plots
+using CSV, DataFrames, LaTeXStrings
 using KernelDensity, StatsBase, Dierckx
 default(grid = false, foreground_color_legend = nothing, bar_edges = false, framestyle =:box, msc = :auto, dpi=300, legendfontsize = 11, labelfontsize = 12, tickfontsize = 10)
 
@@ -14,7 +14,7 @@ df_dyn = filter("Constraint" => x -> x == 0, df)
 #############################
 #    Spreadability Plots    #
 #############################
-# Figure 1 in the Paper
+## Figure 1 in the Paper
 nan_idx = findall(map(x -> isnan(x), df[!, :Abs_Spread]))
 delete!(df, nan_idx)
 
